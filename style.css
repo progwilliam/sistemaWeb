@@ -1,0 +1,83 @@
+
+.imagem_topo{
+    margin-top: -20px;
+    margin-bottom: 0px;
+}
+
+#myCarousel{
+    margin-top: -20px;
+}
+
+.banner{
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+
+.sobreEvanei{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 16px;
+    padding: 10px;
+}
+
+.texto1{
+    float: left;
+    padding: 5px;
+}
+.imagem1{
+    padding: 5px;
+}
+.texto_imagem1{
+    padding: 5px;
+    float: left;
+}
+.titulo_imagem1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #069;
+}
+
+.algunsNossosServicos{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    color: #069;
+   
+}
+
+#quem_somos{
+    background-color: #f4f4f4;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.titulo_quemSomos{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+    color: #069;
+}
+
+.imagemEquipe{
+    float: left;
+}
+
+#trabalhoEquipe{
+    padding: 10px;
+    background-color: aliceblue;
+}
+
+.textoTrabalhoEquipe{
+    padding-top: 20px;
+    margin-top:10px;
+    float:left;
+}
+.TituloNossaEquipe{
+    text-align: center;
+    padding: 10px;
+    color: #069;
+}
