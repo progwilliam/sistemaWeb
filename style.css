@@ -28,8 +28,10 @@
     padding: 5px;
 }
 .texto_imagem1{
+    text-align: justify;
     padding: 5px;
     float: left;
+    color: #6A6A6A;
 }
 .titulo_imagem1{
     text-align: center;
@@ -69,15 +71,25 @@
 #trabalhoEquipe{
     padding: 10px;
     background-color: aliceblue;
+    color: #6A6A6A;
+}
+
+#trabalhoEquipe h3{
+    text-align: center;
+    color: #069;
 }
 
 .textoTrabalhoEquipe{
-    padding-top: 20px;
-    margin-top:10px;
+    padding-top: 10px;
+    margin-top:-5px;
     float:left;
 }
 .TituloNossaEquipe{
     text-align: center;
     padding: 10px;
     color: #069;
+}
+
+.dk-footer{
+    margin-top: 40px;
 }
