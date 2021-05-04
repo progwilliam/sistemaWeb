@@ -1,4 +1,5 @@
 # aula_bootstrap
 .Criando um Site, Utilizando Bootstrap
-.Inserido meu Currículo da Faculdade.
+.Inserido meu Currï¿½culo da Faculdade.
+.Atualizando meu cÃ³digo.
 
